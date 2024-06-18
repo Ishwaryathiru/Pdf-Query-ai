@@ -24,13 +24,13 @@ Installation
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone (https://github.com/Ishwaryathiru/Pdf-Query-ai)
 
 cd your-repo-name
 
 Create and Activate a Virtual Environment
 
-virtual -p python3.12 penv
+virtualenv -p python3.12 penv
 
 In powershell (Run as administrator)
 
